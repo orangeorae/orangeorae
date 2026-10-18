@@ -1,4 +1,8 @@
-## Hi there 👋
+<!-- 자기소개 글 -->
+<div align = "center">
+## Hi there 👋 I'm SunHwa
+안녕하세요 ! 방문해주셔서 감사합니다 ! 
+이해하지 못한 부분은 차분히 생각해 보고 결과를 찾아내는 클라이언트 프로그래머 최선화입니다.
 
 <!--
 **orangeorae/orangeorae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
