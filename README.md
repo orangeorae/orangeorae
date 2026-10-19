@@ -7,6 +7,12 @@
 
 </div>
 
+<!-- 스킬 -->
+<div align = "center">
+<h1> Skills </h1>
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+
+</div>
 <!--
 **orangeorae/orangeorae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
