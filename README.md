@@ -10,7 +10,7 @@
 <!-- 스킬 -->
 <div align = "center">
 <h1> Skills </h1>
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>
 
 </div>
 <!--
